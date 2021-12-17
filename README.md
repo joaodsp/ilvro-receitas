@@ -1,15 +1,15 @@
-# Livro de receitas 
+# Livro de receitas 👨‍🍳
 Olá! Bem Vindo ao meu livro de receitas
 
-- Pizza
+- Pizza🍕
 
-- Pastel
-
-
+- Pastel🌮
 
 
 
-OBS:Demonstração de como funciona um elemento PHP
+
+
+OBS:Somente um exemplo de um arquivo md
 
   
 
